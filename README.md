@@ -59,8 +59,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aharshi0909&show_icons=true&locale=en" alt="aharshi0909" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aharshi0909&" alt="aharshi0909" /></p>
-
 ---
 
 ### Final Words:
