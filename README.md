@@ -6,27 +6,27 @@
 ---
 
 ### About Me:
-- 🔭 **Currently working on:** Web development and trying to convince people that my code isn’t held together by duct tape and prayers. Spoiler: It is. If my code were a cricket match, it’d be a T20—chaotic, unpredictable, and occasionally a no-ball.
-- 🌱 **Currently learning:** C++ (because apparently, I enjoy pain and cryptic error messages that make me question my life choices. It’s like facing Mitchell Starc on a green pitch—terrifying but thrilling.)
-- 👯 **Looking to collaborate on:** Nothing right now. I’m like Rahul Dravid in a T20 match—solid, dependable, but not exactly the life of the party.
+- 🔭 **Currently working on:** Web development and trying to convince people that my code isn’t held together by duct tape and prayers. Spoiler: It is.
+- 🌱 **Currently learning:** C++ (because apparently, I enjoy pain and cryptic error messages that make me question my life choices.)
+- 👯 **Looking to collaborate on:** Nothing right now. 
 - 🤝 **Looking for help with:** Web Dev Backend. If you know how to make APIs stop hating me, hit me up. I’ll pay you in memes and bad cricket puns. (Why did the API go to therapy? Too many `404` issues.)
-- 👨‍💻 **All of my projects are available at:** [My GitHub](https://github.com/aharshi0909) (Even though it’s 5 years old and I post hardly once a month. Consistency is overrated. I’m like Shoaib Akhtar—fast, flashy, but inconsistent.)
+- 👨‍💻 **All of my projects are available at:** [My GitHub](https://github.com/aharshi0909) (Even though it’s 5 years old and I post hardly once a month. Consistency is overrated. )
 - 📝 **I regularly write articles on:** Articles are too complex, as I know more JavaScript than English. My grammar is held together by semicolons and hope, much like Pakistan’s middle order.
-- 💬 **Ask me about:** Web Dev, why JavaScript is both my best friend and worst enemy, or why pineapple on pizza is a crime against humanity. (Spoiler: It’s fruit. On pizza. That’s illegal, like underarm bowling.)
+- 💬 **Ask me about:** Web Dev, why JavaScript is both my best friend and worst enemy, or why pineapple on pizza is a crime against humanity. (Spoiler: It’s fruit. On pizza. That’s illegal.)
 - 📫 **How to reach me:** 
   - **Email:** [aharshi.samaddar27@gmail.com](mailto:aharshi.samaddar27@gmail.com) (I promise I’ll reply faster than your ISP’s customer service. Unless I’m napping. Or coding. Or napping while coding.)
-  - **Discord:** DebuggedDev/_archy11_ (Send to both because I can’t remember which one is which. It’s a mystery, even to me. It is like Jimmy Anderson, cannot be understood to send friend request to whom)
-- 📄 **Know about my experiences:** I’m too lazy to write it down. Let’s just say I’ve survived countless `undefined` errors and lived to tell the tale. Call me the MS Dhoni of debugging—calm under pressure, but occasionally stumped.
-- 😄 **Pronouns:** He/Him (I’m a simple guy—no drama, just code. Like Virat Kohli, I’m passionate, but without the aggression.)
-- ⚡ **Fun fact:** We’re living in a simulation, and I coded it. If you find any bugs, please don’t report them—I’m already behind on patches. (Think of me as the Steve Smith of coding—unorthodox but effective.)
+  - **Discord:** DebuggedDev/_archy11_ (Send to both because I can’t remember which one is which. It’s a mystery, even to me. )
+- 📄 **Know about my experiences:** I’m too lazy to write it down. Let’s just say I’ve survived countless `undefined` errors and lived to tell the tale.
+- 😄 **Pronouns:** He/Him (I’m a simple guy—no drama, just code. Rather can call me a coder/programmer)
+- ⚡ **Fun fact:** We’re living in a simulation, and I coded it. If you find any bugs, please don’t report them—I’m already behind on patches. 
 
 ---
 
 ### My Coding Philosophy:
-1. **If it works, don’t touch it.** (Seriously, don’t. You’ll break it. Like messing with a winning Test match strategy.)
-2. **If it doesn’t work, add more `console.log()` statements.** (Debugging 101: Spray and pray, like a tailender swinging for the fences.)
-3. **If it still doesn’t work, blame the framework.** (It’s never my fault. Ever. Like blaming the pitch when you get out for a duck.)
-4. **When in doubt, Google it.** (Stack Overflow is my therapist. It’s like having Sachin Tendulkar in your corner—always reliable.)
+1. **If it works, don’t touch it.** (Seriously, don’t. You’ll break it. )
+2. **If it doesn’t work, add more `console.log()` statements.** (Debugging 101: Spray and pray)
+3. **If it still doesn’t work, blame the framework.** (It’s never my fault. Ever. )
+4. **When in doubt, Google it.** (Stack Overflow is my therapist. )
 5. **Documentation is for quitters.** (Who has time to read manuals anyway? I’m more of a “learn by hitting sixes” kind of guy.)
 
 ---
