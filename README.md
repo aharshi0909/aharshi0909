@@ -27,7 +27,7 @@
 2. **If it doesn’t work, add more `console.log()` statements.** (Debugging 101: Spray and pray)
 3. **If it still doesn’t work, blame the framework.** (It’s never my fault. Ever. )
 4. **When in doubt, Google it.** (Stack Overflow is my therapist. )
-5. **Documentation is for quitters.** (Who has time to read manuals anyway? I’m more of a “learn by hitting sixes” kind of guy.)
+5. **Documentation is for quitters.** (Who has time to read manuals anyway?)
 
 ---
 
