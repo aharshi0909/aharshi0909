@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aharshi</h1>
-<h3 align="center">A "dumb but passionate" Web Developer and C++ Coder</h3>
+<h3 align="center">A "dumb but passionate" Web Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aharshi0909" alt="aharshi0909" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 ### About Me:
 - 🔭 **Currently working on:** Web development and trying to convince people that my code isn’t held together by duct tape and prayers. Spoiler: It is.
-- 🌱 **Currently learning:** C++ (because apparently, I enjoy pain and cryptic error messages that make me question my life choices.)
+- 🌱 **Currently learning:** React Native (because apparently, I love cross platform.)
 - 👯 **Looking to collaborate on:** Nothing right now. 
 - 🤝 **Looking for help with:** Web Dev Backend. If you know how to make APIs stop hating me, hit me up. I’ll pay you in memes and bad cricket puns. (Why did the API go to therapy? Too many `404` issues.)
 - 👨‍💻 **All of my projects are available at:** [My GitHub](https://github.com/aharshi0909) (Even though it’s 5 years old and I post hardly once a month. Consistency is overrated. )
@@ -24,7 +24,7 @@
 
 ### My Coding Philosophy:
 1. **If it works, don’t touch it.** (Seriously, don’t. You’ll break it. )
-2. **If it doesn’t work, add more `console.log()` statements.** (Debugging 101: Spray and pray)
+2. **If it doesn’t work, add more `console.log()` statements.** (Debugging 13 billion blah blah: Spray and pray)
 3. **If it still doesn’t work, blame the framework.** (It’s never my fault. Ever. )
 4. **When in doubt, Google it.** (Stack Overflow is my therapist. )
 5. **Documentation is for quitters.** (Who has time to read manuals anyway?)
