@@ -6,7 +6,7 @@
 ---
 
 ### About Me:
-- 🔭 **Currently working on:** Web development and trying to convince people that my code isn’t held together by duct tape and prayers. Spoiler: It is.
+- 🔭 **Currently working on:** Something.
 - 🌱 **Currently learning:** Python (because apparently, I love being slow.)
 - 👯 **Looking to collaborate on:** Nothing right now. 
 - 🤝 **Looking for help with:** Web Dev Backend. If you know how to make APIs stop hating me, hit me up. I’ll pay you in memes and bad cricket puns. (Why did the API go to therapy? Too many `404` issues.)
