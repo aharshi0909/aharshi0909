@@ -43,7 +43,7 @@
 
 ---
 
-### GitHub Stats:
+### GitHub Stats😁:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aharshi0909&show_icons=true&locale=en&layout=compact" alt="aharshi0909" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aharshi0909&show_icons=true&locale=en" alt="aharshi0909" /></p>
