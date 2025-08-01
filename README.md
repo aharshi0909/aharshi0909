@@ -15,7 +15,7 @@
 - 💬 **Ask me about:** Web Dev and Python, why JavaScript is both my best friend and worst enemy, or why pineapple on pizza is a crime against humanity. (Spoiler: Ask the Italians.)
 - 📫 **How to reach me:** 
   - **Email:** [aharshi.samaddar27@gmail.com](mailto:aharshi.samaddar27@gmail.com) (I promise I’ll reply faster than your ISP’s customer service. Unless I’m napping. Or coding. Or napping while coding.)
-  - **Discord:** DebuggedDev/_archy11_ (Send to both because I can’t remember which one is which. It’s a mystery, even to me. )
+  - **Discord:** _archy11_ (Send to both because I can’t remember which one is which. It’s a mystery, even to me. )
 - 📄 **Know about my experiences:** I’m too lazy to write it down. Let’s just say I’ve survived countless `undefined` and Traceback errors and lived to tell the tale.
 - 😄 **Pronouns:** He/Him (I’m a simple guy—no drama, just code. Rather can call me a coder/programmer)
 - ⚡ **Fun fact:** We’re living in a simulation, and I coded it. If you find any bugs, please don’t report them—I’m already behind on patches. 
