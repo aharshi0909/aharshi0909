@@ -6,10 +6,10 @@
 ---
 
 ### About Me:
-- 🔭 **Currently working on:** Backend.
-- 🌱 **Currently learning:** Video Editing.
-- 👯 **Looking to collaborate on:** Nothing right now. 
-- 🤝 **Looking for help with:** Web Dev Backend. If you know how to make APIs stop hating me, hit me up. I’ll pay you in memes and bad cricket puns. (Why did the API go to therapy? Too many `404` issues.)
+- 🔭 **Currently working on:** Harmonize: Your Music Tutor.
+- 🌱 **Currently learning:** Blender.
+- 👯 **Looking to collaborate on:** A chatbot. 
+- 🤝 **Looking for help with:** Web Dev Backend. If you know ML stop hating me, hit me up. I’ll pay you in memes and bad cricket puns. (Why did the API go to therapy? Too many `404` issues.)
 - 👨‍💻 **All of my projects are available at:** [My GitHub](https://github.com/aharshi0909) (Even though it’s 5 years old and I post hardly once a month. Consistency is overrated. )
 - 📝 **I regularly write articles on:** Articles are too complex, as I know more JavaScript and Python than English. My grammar is held together by curly braces and indentation, much like Pakistan’s middle order.
 - 💬 **Ask me about:** Web Dev and Python, why JavaScript is both my best friend and worst enemy, or why pineapple on pizza is a crime against humanity. (Spoiler: Ask the Italians.)
