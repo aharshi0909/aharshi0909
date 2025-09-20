@@ -7,8 +7,8 @@
 
 ### About Me:
 - 🔭 **Currently working on:** Harmonize: Your Music Tutor.
-- 🌱 **Currently learning:** Blender.
-- 👯 **Looking to collaborate on:** A chatbot. 
+- 🌱 **Currently learning:** Physics, Chemistry and Mathematics.
+- 👯 **Looking to collaborate on:** DocsGPT: Your own tutor. 
 - 🤝 **Looking for help with:** Web Dev Backend. If you know ML stop hating me, hit me up. I’ll pay you in memes and bad cricket puns. (Why did the API go to therapy? Too many `404` issues.)
 - 👨‍💻 **All of my projects are available at:** [My GitHub](https://github.com/aharshi0909) (Even though it’s 5 years old and I post hardly once a month. Consistency is overrated. )
 - 📝 **I regularly write articles on:** Articles are too complex, as I know more JavaScript and Python than English. My grammar is held together by curly braces and indentation, much like Pakistan’s middle order.
