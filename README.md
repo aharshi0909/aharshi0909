@@ -33,7 +33,7 @@
 
 ---
 
-**My Yearly Analysis:**
+# My Yearly Analysis:
 - **2018**: Started Coding with C++
 - **2019**: Learnt C++ till the end of basics and started Python
 - **2020**: Learnt Python completely and started HTML CSS
@@ -42,6 +42,8 @@
 - **2023**: Finished React, and started learning Unreal Engine(didn't work out well), started Unity
 - **2024**: Learnt decent amount of Unity C# but that too failed due to low RAM Laptop
 - **2025**: Learnt decent amount of Backend in JS and Python, and Learning Svelte currently
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
