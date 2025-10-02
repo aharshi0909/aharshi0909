@@ -6,10 +6,10 @@
 ---
 
 ### About Me:
-- 🔭 **Currently working on:** Harmonize: Your Music Tutor.
-- 🌱 **Currently learning:** Physics, Chemistry and Mathematics.
-- 👯 **Looking to collaborate on:** DocsGPT: Your own tutor. 
-- 🤝 **Looking for help with:** Web Dev Backend. If you know ML stop hating me, hit me up. I’ll pay you in memes and bad cricket puns. (Why did the API go to therapy? Too many `404` issues.)
+- 🔭 **Currently working on:** **Harmonize**: Your Music Tutor.
+- 🌱 **Currently learning:** Physics, Chemistry, Mathematics, and **Svelte**
+- 👯 **Looking to collaborate on:** **DocsGPT**: Your own tutor. 
+- 🤝 **Looking for help with:** ML developer. If you know ML stop hating me, hit me up. I’ll pay you in memes and bad cricket puns. (Why did the API go to therapy? Too many `404` issues.)
 - 👨‍💻 **All of my projects are available at:** [My GitHub](https://github.com/aharshi0909) (Even though it’s 5 years old and I post hardly once a month. Consistency is overrated. )
 - 📝 **I regularly write articles on:** Articles are too complex, as I know more JavaScript and Python than English. My grammar is held together by curly braces and indentation, much like Pakistan’s middle order.
 - 💬 **Ask me about:** Web Dev and Python, why JavaScript is both my best friend and worst enemy, or why pineapple on pizza is a crime against humanity. (Spoiler: Ask the Italians.)
@@ -29,8 +29,19 @@
 4. **When in doubt, Google it.** (Stack Overflow is my therapist. )
 5. **Documentation is for quitters.** (Who has time to read manuals anyway?)
 6. **If you think you need to take my code**: Take it, it is never mine it is from like 50 websites
+7. **Recommendation**: Don't use ai for codes(Use it for generating content, this is also written by AI).
 
 ---
+
+**My Yearly Analysis:**
+- **2018**: Started Coding with C++
+- **2019**: Learnt C++ till the end of basics and started Python
+- **2020**: Learnt Python completely and started HTML CSS
+- **2021**: Gained my HTML CSS certificate and then after May 2021 **downfall to coding**
+- **2022**: Regained my coding status, learnt JS, then React
+- **2023**: Finished React, and started learning Unreal Engine(didn't work out well), started Unity
+- **2024**: Learnt decent amount of Unity C# but that too failed due to low RAM Laptop
+- **2025**: Learnt decent amount of Backend in JS and Python, and Learning Svelte currently
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
