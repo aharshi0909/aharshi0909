@@ -67,3 +67,7 @@
 
 ### Final Words:
 Thanks for stopping by! If you’ve read this far, you deserve a cookie 🍪. (Disclaimer: Cookies are virtual and may contain traces of sarcasm. Side effects may include uncontrollable laughter or existential crises.)
+
+**AND**
+_Let me show you effects of excess debugging_
+<img width="956" height="173" alt="image" src="https://github.com/user-attachments/assets/513b32c3-d01e-4f0c-b7b8-47061baaa718" />
