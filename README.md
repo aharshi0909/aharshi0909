@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aharshi</h1>
 <h3 align="center">A "dumb but passionate" Web Developer</h3>
-<h3 align="center">Hailing from a small area in Kolkata named Netaji Nagar</h3>
+<p align="center">Hailing from a small area in Kolkata named <b>Netaji Nagar</b></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aharshi0909" alt="aharshi0909" /></a> </p>
 
@@ -9,7 +9,7 @@
 ### About Me:
 - 🔭 **Currently working on:** **Harmonize**: Your Music Tutor.
 - 🌱 **Currently learning:** Physics, Chemistry, Mathematics, and **Svelte**
-- 👯 **Looking to collaborate on:** **DocsGPT**: Your own tutor. 
+- 👯 **Looking to collaborate on:** **Musee**: Your music demand listner. 
 - 🤝 **Looking for help with:** ML developer. If you know ML stop hating me, hit me up. I’ll pay you in memes and bad cricket puns. (Why did the API go to therapy? Too many `404` issues.)
 - 👨‍💻 **All of my projects are available at:** [My GitHub](https://github.com/aharshi0909) (Even though it’s 5 years old and I post hardly once a month. Consistency is overrated. )
 - 📝 **I regularly write articles on:** Articles are too complex, as I know more JavaScript and Python than English. My grammar is held together by curly braces and indentation, much like Pakistan’s middle order.
