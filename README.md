@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aharshi</h1>
 <h3 align="center">A "dumb but passionate" Web Developer</h3>
+<h3 align="center">Hailing from a small area in Kolkata named Netaji Nagar</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aharshi0909" alt="aharshi0909" /></a> </p>
 
@@ -23,11 +24,11 @@
 ---
 
 ### My Coding Philosophy:
-1. **If it works, don’t touch it.** (Seriously, don’t. You’ll break it. )
-2. **If it doesn’t work, add more `console.log()` statements.** (Debugging 13 billion blah blah: Spray and pray)
+1. **If it works, don’t touch it.** (Seriously, don’t. You’ll break it.)
+2. **If it doesn’t work, add more `console.log()` statements.** (They are the most useful feature of any programming language)
 3. **If it still doesn’t work, blame the framework.** (It’s never my fault. Ever. )
-4. **When in doubt, Google it.** (Stack Overflow is my therapist. )
-5. **Documentation is for quitters.** (Who has time to read manuals anyway?)
+4. **When in doubt, Google it.** (Stack Overflow is my therapist. Discord unpaid helpers are the absolute **GOATS**)
+5. **Documentation is for quitters.** (Who has time to read manuals anyway? Rather search in youtube)
 6. **If you think you need to take my code**: Take it, it is never mine it is from like 50 websites
 7. **Recommendation**: Don't use ai for codes(Use it for generating content, this is also written by AI).
 
@@ -41,7 +42,7 @@
 - **2022**: Regained my coding status, learnt JS, then React
 - **2023**: Finished React, and started learning Unreal Engine(didn't work out well), started Unity
 - **2024**: Learnt decent amount of Unity C# but that too failed due to low RAM Laptop
-- **2025**: Learnt decent amount of Backend in JS and Python, and Learning Svelte currently
+- **2025**: Learnt decent amount of Backend in JS and Python, and Learning Svelte currently and got my Javascript and React Certifications(**FINALLY**)
 
 ---
 
